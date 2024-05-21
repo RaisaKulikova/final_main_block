@@ -22,7 +22,6 @@ int CountThreeAndLess(string[] array1)
         {
             count++;
         }
-        continue;
     }
     return count;
 }
